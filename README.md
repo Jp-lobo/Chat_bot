@@ -6,9 +6,13 @@ Este repositorio contiene una estructura básica para iniciar proyectos en **Nod
 
 ## 📁 Estructura del Proyecto
 mi-proyecto/
+
 ├── index.js # Archivo principal de ejecución
+
 ├── package.json # Configuración del proyecto y dependencias
+
 ├── package-lock.json # Registro exacto de las versiones instaladas
+
 └── .gitignore # Archivos/carpetas ignorados por Git
 
 
